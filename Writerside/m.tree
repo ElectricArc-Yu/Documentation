@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                 name="MagicMahjangDocuments"
+                 start-page="Co-Worker-Join-Principle.md">
+    <toc-element topic="Co-Worker-Join-Principle.md">
+        <toc-element topic="Co-Worker-List.md"/>
+    </toc-element>
+    <toc-element topic="Game-Design-Documents.md">
+        <toc-element topic="Magic-Mahjang-GDD.md"/>
+    </toc-element>
+    <toc-element topic="API-Documentations.md">
+        <toc-element topic="Logic-Layer.md">
+            <toc-element topic="HandList-API.md"/>
+        </toc-element>
+        <toc-element topic="Services.md">
+            <toc-element topic="EventDispatcherAPI.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
