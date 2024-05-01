@@ -16,7 +16,7 @@
 |Target Audience|All ages|
 |Controller Support|Mouse & Keyboard|Gamepad|
 |Game Mode|Single Player|Multiplayer|
-|Steam Tag|single-player & LAN PvP & Cross-Platform Multiplayer|| 
+|Steam Tag|Single-Player & LAN PvP & Cross-Platform Multiplayer|| 
 
 ## Game Pillars
 1. Base on classic mahjang add different strategy element
@@ -85,6 +85,8 @@ TBD : Character has 3D Module
 
 
 ## Reference
+### Core Reference
+- [咲-Saki-](https://saki.fandom.com/wiki/Saki_Wiki) : Core reference of the game.
 ### Game Reference
 - [Mahjong Soul](https://mahjongsoul.yo-star.com/) : A popular online mahjong game.
 - [Tenhou](https://tenhou.net/0/) : A Japanese popular online mahjong game.
