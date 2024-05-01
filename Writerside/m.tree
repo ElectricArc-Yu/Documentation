@@ -4,9 +4,20 @@
 
 <instance-profile id="m"
                  name="MagicMahjangDocuments"
-                 start-page="Co-Worker-Join-Principle.md">
-    <toc-element topic="Co-Worker-Join-Principle.md">
-        <toc-element topic="Co-Worker-List.md"/>
+                 start-page="Co-Worker-Relevant.md">
+    <toc-element topic="About-Us.md"/>
+    <toc-element topic="Co-Worker-Relevant.md">
+        <toc-element topic="合作伙伴原则.md"/>
+        <toc-element topic="需求合作伙伴角色.md">
+            <toc-element topic="策划.md"/>
+            <toc-element topic="程序.md"/>
+            <toc-element topic="美术.md"/>
+            <toc-element topic="3D-美术-特效美术.md"/>
+        </toc-element>
+        <toc-element topic="合作伙伴列表.md"/>
+        <toc-element topic="合作伙伴角色列表.md"/>
+    </toc-element>
+    <toc-element topic="Project-Relavant.md">
     </toc-element>
     <toc-element topic="Game-Design-Documents.md">
         <toc-element topic="Magic-Mahjang-GDD.md"/>

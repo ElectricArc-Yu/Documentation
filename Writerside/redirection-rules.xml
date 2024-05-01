@@ -18,4 +18,16 @@
         <description>Created after removal of "Starter" from MagicMahjangDocuments</description>
         <accepts>starter.html</accepts>
     </rule>
+    <rule id="e86e4b">
+        <description>Created after removal of "Co-Worker List" from MagicMahjangDocuments</description>
+        <accepts>Co-Worker-List.html</accepts>
+    </rule>
+    <rule id="7a81104">
+        <description>Created after removal of "Co-Worker Principle" from MagicMahjangDocuments</description>
+        <accepts>Co-Worker-Join-Principle.html</accepts>
+    </rule>
+    <rule id="61eee1d8">
+        <description>Created after removal of "Project Planning" from MagicMahjangDocuments</description>
+        <accepts>Project-Planning.html</accepts>
+    </rule>
 </rules>
